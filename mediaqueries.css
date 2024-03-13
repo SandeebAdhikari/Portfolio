@@ -1,0 +1,12 @@
+@media screen and (max-width:1200px) {
+    #webpage-nav{
+        display: none;
+    }
+
+    #mobile-nav{
+        display: flex;
+    }
+    
+}
+
+
